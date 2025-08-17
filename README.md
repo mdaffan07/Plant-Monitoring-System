@@ -1,7 +1,3 @@
-Here’s a clean and professional **README.md** version of your Smart Irrigation System project:
-
----
-
 # 🌱 Smart Irrigation System using ESP32 and Blynk
 
 This project creates an **automated irrigation system** that intelligently waters plants based on real-time soil moisture levels. It also monitors ambient temperature, humidity, and reservoir water level. The system can be controlled and monitored remotely via the **Blynk IoT platform** on a smartphone.
